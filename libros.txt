@@ -1,0 +1,104 @@
+id,nombre,categoria,autor,fecha,stock
+1,Cien años de soledad,Novela,Gabriel García Márquez,1967-05-30,6,12.13
+2,El principito,Infantil,Antoine de Saint-Exupéry,1943-04-06,10,0
+3,Don Quijote de la Mancha,Clásico,Miguel de Cervantes,1605-01-16,4,15.26
+4,1984,Ciencia ficción,George Orwell,1949-06-08,7,23.15
+5,Harry Potter y la piedra filosofal,Fantasía,J.K. Rowling,1997-06-26,12,7.56
+6,Orgullo y prejuicio,Romance,Jane Austen,1813-01-28,5,48.2
+7,La Odisea,Épico,Homero,0800-01-01,3,18.45
+8,El arte de la guerra,Historia,Fen Sun Tzu,0500-01-01,9,48.26
+9,Sapiens,Historia,Yuval Noah Harari,2011-01-01,8,15.23
+10,Hábitos atómicos,Autoayuda,James Clear,2018-10-16,15,47.56
+11,Piense y hágase rico,Autoayuda,Napoleon Hill,1937-03-01,6,15.23
+12,Introducción a Python,Programación,Mark Lutz,2020-02-15,11,14.52
+13,Estructuras de Datos,Programación,Robert Lafore,2019-09-10,7,78.56
+14,El origen de las especies,Ciencia,Charles Darwin,1859-11-24,4,74.12
+15,Una breve historia del tiempo,Ciencia,Stephen Hawking,1988-04-01,5,12.14
+16,La divina comedia,Poesía,Dante Alighieri,1320-01-01,2, null
+17,Filosofía para principiantes,Filosofía,Richard Osborne,2005-06-12,8,36.12
+18,El código Da Vinci,Suspenso,Dan Brown,2003-03-18,9,12.36
+19,Crónica de una muerte anunciada,Novela,Gabriel García Márquez,1981-04-01,6,18.4
+20,Los juegos del hambre,Ciencia ficción,Suzanne Collins,2008-09-14,10,48.85
+21,El señor de los anillos,Fantasía,J.R.R. Tolkien,1954-07-29,5,48
+22,Manual de redes,Tecnología,Andrew Tanenbaum,2018-01-20,4,12.58
+23,Educación financiera,Economía,Robert Kiyosaki,1997-04-01,7,74.6
+24,El diario de Ana Frank,Biografía,Ana Frank,1947-06-25,6,41
+25,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+26,Los juegos del hambre,Ciencia ficción,Suzanne Collins,2008-09-14,10,48.85
+27,El señor de los anillos,Fantasía,J.R.R. Tolkien,1954-07-29,5,48
+28,Manual de redes,Tecnología,Andrew Tanenbaum,2018-01-20,4,12.58
+29,Educación financiera,Economía,Robert Kiyosaki,1997-04-01,7,74.6
+29,El diario de Ana Frank,Biografía,Ana Frank,1947-06-25,6,41
+30,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+32,Los juegos del hambre,Ciencia ficción,Suzanne Collins,2008-09-14,10,48.85
+33,El señor de los anillos, ,J.R.R. Tolkien,1954-07-29,5,48
+34,Manual de redes,Tecnología,Andrew Tanenbaum,2018-01-20,4,12.58
+35,Educación financiera,Economía,Robert Kiyosaki,1997-04-01,7,74.6
+35,El diario de Ana Frank,Biografía,Ana Frank,1947-06-25,6,41
+36,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+37,Los juegos del hambre,Ciencia ficción,Suzanne Collins,2008-09-14,10,48.85
+38,El señor de los anillos,Fantasía,J.R.R. Tolkien,1954-07-29,5,48
+29,Manual de redes,Tecnología,Andrew Tanenbaum,2018-01-20,4,12.58
+40,Educación financiera,Economía,Robert Kiyosaki,1997-04-01,7,74.6
+41,El diario de Ana Frank,Biografía,Ana Frank,1947-06-25,6,41
+42,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+43,Crónica de una muerte anunciada,Novela,Gabriel García Márquez,1981-04-01,6,18.4
+44,Los juegos del hambre,Ciencia ficción,Suzanne Collins,2008-09-14,10,48.85
+45,El señor de los anillos,Fantasía,J.R.R. Tolkien,1954-07-29,5,48
+46,Manual de redes,Tecnología,Andrew Tanenbaum,2018-01-20,4,12.58
+47,Educación financiera,Economía,Robert Kiyosaki,1997-04-01,7,74.6
+48,El diario de Ana Frank,Biografía,Ana Frank,1947-06-25,6,41
+49,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+50,Los juegos del hambre,Ciencia ficción,Suzanne Collins,2008-09-14,10,48.85
+51,El señor de los anillos,Fantasía,J.R.R. Tolkien,1954-07-29,5,48
+53, ,Tecnología,Andrew Tanenbaum,2018-01-20,4,12.58
+54,Educación financiera,Economía,Robert Kiyosaki,1997-04-01,7,74.6
+55,El diario de Ana Frank,Biografía,Ana Frank,1947-06-25,6,41
+56,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+58,Los juegos del hambre,Ciencia ficción,Suzanne Collins,2008-09-14,10,48.85
+33,El señor de los anillos,Fantasía,J.R.R. Tolkien,1954-07-29,5,48
+34,Manual de redes,Tecnología,Andrew Tanenbaum,2018-01-20,4,12.58
+61,Educación financiera,Economía,Robert Kiyosaki,1997-04-01,7,74.6
+35,El diario de Ana Frank,Biografía,Ana Frank,1947-06-25,6,
+63,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+62,El principito,Infantil,Antoine de Saint-Exupéry,1943-04-06,10,0
+63,Don Quijote de la Mancha,Clásico,Miguel de Cervantes,1605-01-16,4, ,7.26
+64,1984,Ciencia ficción,George Orwell,1949-06-08,7,23.15
+65,Harry Potter y la piedra filosofal,Fantasía,J.K. Rowling,1997-06-26,12,7.56
+66,Orgullo y prejuicio,Romance,Jane Austen,1813-01-28,5,48.2
+67,La Odisea,Épico,Homero,0800-01-01,3,18.45
+58,El arte de la guerra,Historia,Fen Sun Tzu,0500-01-01,9,48.26
+69,Sapiens,Historia,Yuval Noah Harari,2011-01-01,8,15.23
+70,bitos atómicos,Autoayuda,James Clear,2018-10-16,15,47.56
+71,iense y hágase rico,Autoayuda,Napoleon Hill,1937-03-01,6,15.23
+72Introducción a Python,Programación,Mark Lutz,2020-02-15,11,14.52
+73.Estructuras de Datos,Programación,Robert Lafore,2019-09-10,7,,56
+74,El origen de las especies,Ciencia,Charles Darwin,1859-11-24,4,74.12
+75,Una breve historia del tiempo,Ciencia,Stephen Hawking,1988-04-01,5,12.14
+76,La divina comedia,Poesía,Dante Alighieri,1320-01-01,2, null
+77,Filosofía para principiantes,Filosofía,Richard Osborne,2005-06-12,8,36.12
+78,El código Da Vinci,Suspenso,Dan Brown,2003-03-18,9,12.36
+79,Crónica de una muerte anunciada,Novela,Gabriel García Márquez,1981-04-01,6,18.4
+80,Los juegos del hambre,Ciencia ficción,Suzanne Collins,2008-09-14,10,48.85
+81,El señor de los anillos,Fantasía,J.R.R. Tolkien,1954-07-29,5,48
+82,Manual de redes,Tecnología,Andrew Tanenbaum,2018-01-20,4,12.58
+83,Educación financiera,Economía,Robert Kiyosaki,1997-04-01,7,74.6
+84,El diario de Ana Frank,Biografía,Ana Frank,1947-06-25, ,41
+85,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+1,Cien años de soledad,Novela,Gabriel García Márquez,1967-05-30,6,12.13
+2,El principito,Infantil,Antoine de Saint-Exupéry,1943-04-06,10,0
+3,Don Quijote de la Mancha,Clásico,Miguel de Cervantes,1605-01-16,4,15.26
+4,1984,Ciencia ficción,George Orwell,1949-06-08,7,23.15
+5,Harry Potter y la piedra filosofal,Fantasía,J.K. Rowling,1997-06-26,12,7.56
+6,Orgullo y prejuicio,Romance,Jane Austen,1813-01-28,5,48.2
+7,La Odisea,Épico,Homero,0800-01-01,3,18.45
+8,El arte de la guerra,Historia,Fen Sun Tzu,0500-01-01,9,48.26
+9,Sapiens,Historia,Yuval Noah Harari,2011-01-01,8,15.23
+10,Hábitos atómicos,Autoayuda,James Clear,2018-10-16,15,47.56
+11,Piense y hágase rico,Autoayuda,Napoleon Hill,1937-03-01,6,15.23
+12,Introducción a Python,Programación,Mark Lutz,2020-02-15,11,14.52
+13,Estructuras de Datos,Programación,Robert Lafore,2019-09-10,7,78.56
+14,El origen de las especies,Ciencia,Charles Darwin,1859-11-24,4,74.12
+
+
+
