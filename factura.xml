@@ -1,0 +1,857 @@
+
+<factura>
+    <idFactura>1</idFactura>
+   <idLibro>4</idLibro>
+    <idCliente>23</idCliente>
+    <fecha>2026-01-21</fecha>
+    <tipoDePago>Efectivo</tipoDePago>
+    <total>36.00</total>
+</factura>
+<factura>
+    <idFactura>2</idFactura>
+    <idLibro>9</idLibro>
+    <idCliente>23</idCliente>
+    <fecha>2025-11-11</fecha>
+    <tipoDePago>Tarjeta</tipoDePago>
+    <total>18.00</total>
+</factura>
+
+
+    <factura>
+        <idFactura>3</idFactura>
+        <idLibro>47</idLibro>
+        <idCliente>31</idCliente>
+        <fecha>2025-12-10</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>12.50</total>
+    </factura>
+
+    <factura>
+        <idFactura>5</idFactura>
+        <idLibro>47</idLibro>
+        <idCliente>22</idCliente>
+        <fecha>2026-08-15</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>18.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>4</idFactura>
+        <idLibro>15</idLibro>
+        <idCliente>23</idCliente>
+        <fecha>2024-06-12</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>25.75</total>
+    </factura>
+
+    <factura>
+        <idFactura>6</idFactura>
+        <idLibro>24</idLibro>
+        <idCliente>28</idCliente>
+        <fecha>2026-01-13</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>9.99</total>
+    </factura>
+
+    <factura>
+        <idFactura>08</idFactura>
+        <idLibro>15</idLibro>
+        <idCliente>255</idCliente>
+        <fecha>2026-08-14</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>30.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>09</idFactura>
+        <idLibro>64</idLibro>
+        <idCliente>32</idCliente>
+        <fecha>2026-01-15</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>14.20</total>
+    </factura>
+
+    <factura>
+        <idFactura>10</idFactura>
+        <idLibro>12</idLibro>
+        <idCliente>65</idCliente>
+        <fecha>2026-02-16</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>22.90</total>
+    </factura>
+
+    <factura>
+        <idFactura>13</idFactura>
+        <idLibro>45</idLibro>
+        <idCliente>18</idCliente>
+        <fecha>2026-05-17</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>17.60</total>
+    </factura>
+
+    <factura>
+        <idFactura>11</idFactura>
+        <idLibro>29</idLibro>
+        <idCliente>C009</idCliente>
+        <fecha>2024-07-18</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>11.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>12</idFactura>
+        <idLibro>78</idLibro>
+        <idCliente>29</idCliente>
+        <fecha>2026-01-19</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>40.50</total>
+    </factura>
+
+
+<factura>
+    <idFactura>18</idFactura>
+   <idLibro>47</idLibro>
+    <idCliente>48</idCliente>
+    <fecha>2024-09-21</fecha>
+    <tipoDePago>Efectivo</tipoDePago>
+    <total>37.00</total>
+</factura>
+    <factura>
+    <idFactura>22</idFactura>
+    <idLibro>9</idLibro>
+    <idCliente>23</idCliente>
+    <fecha>2022-12-08</fecha>
+    <tipoDePago>Tarjeta</tipoDePago>
+    <total>18.00</total>
+    </factura>  
+    <facturas>
+
+    <factura>
+        <idFactura>23</idFactura>
+        <idLibro>45</idLibro>
+        <idCliente>37</idCliente>
+        <fecha>2024-12-23</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>12.50</total>
+    </factura>
+
+    <factura>
+        <idFactura>25</idFactura>
+        <idLibro>49</idLibro>
+        <idCliente>23</idCliente>
+        <fecha>2026-06-17</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>18.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>20</idFactura>
+        <idLibro>17</idLibro>
+        <idCliente>24</idCliente>
+        <fecha>2024-06-12</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>25.75</total>
+    </factura>
+
+    <factura>
+        <idFactura>16</idFactura>
+        <idLibro>16</idLibro>
+        <idCliente>29</idCliente>
+        <fecha>2025-03-13</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>9.99</total>
+    </factura>
+
+    <factura>
+        <idFactura>16</idFactura>
+        <idLibro>15</idLibro>
+        <idCliente>75</idCliente>
+        <fecha>2026-04-14</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>30.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>19</idFactura>
+        <idLibro>68</idLibro>
+        <idCliente>48</idCliente>
+        <fecha>2026-05-15</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>14.20</total>
+    </factura>
+
+    <factura>
+        <idFactura>17</idFactura>
+        <idLibro>18</idLibro>
+        <idCliente>25</idCliente>
+        <fecha>2024-02-16</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>22.90</total>
+    </factura>
+
+    <factura>
+        <idFactura>13</idFactura>
+        <idLibro>45</idLibro>
+        <idCliente>18</idCliente>
+        <fecha>2026-05-17</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>17.60</total>
+    </factura>
+
+    <factura>
+        <idFactura>11</idFactura>
+        <idLibro>48</idLibro>
+        <idCliente>9</idCliente>
+        <fecha>2024-07-18</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>11.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>12</idFactura>
+        <idLibro>85</idLibro>
+        <idCliente>19</idCliente>
+        <fecha>2026-01-19</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>40.50</total>
+    </factura>
+    <factura>
+        <idFactura>12</idFactura>
+        <idLibro>85</idLibro>
+        <idCliente>19</idCliente>
+        <fecha>2026-01-19</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>40.50</total>
+    </factura>
+
+
+    <factura>
+        <idFactura>13</idFactura>
+        <idLibro>22</idLibro>
+        <idCliente>7</idCliente>
+        <fecha>2026-13-40</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>15.00</total>
+    </factura>
+
+    
+    <factura>
+        <idFactura>14</idFactura>
+        <idLibro>9</idLibro>
+        <idCliente>ABC</idCliente>
+        <fecha>2026-01-05</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>-20.00</total>
+    </factura>
+
+  
+    <factura>
+        <idFactura>15</idFactura>
+        <idLibro>44</idLibro>
+        <idCliente>11</idCliente>
+        <fecha>2025-12-31</fecha>
+        <tipoDePago></tipoDePago>
+        <total>30.75</total>
+    </factura>
+
+
+    <factura>
+        <idFactura>16</idFactura>
+        <idLibro></idLibro>
+        <idCliente>5</idCliente>
+        <fecha>2026-02-10</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>18.90</total>
+    </factura>
+
+  
+    <factura>
+        <idFactura>17</idFactura>
+        <idLibro>101</idLibro>
+        <idCliente>33</idCliente>
+        <fecha>2026-01-01</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>veinte</total>
+    </factura>
+
+   
+    <factura>
+        <idFactura>18</idFactura>
+        <idLibro>77</idLibro>
+        <idCliente>2</idCliente>
+        <fecha>01-20-2026</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>55.00</total>
+    </factura>
+
+ 
+    <factura>
+        <idFactura>12</idFactura>
+        <idLibro>88</idLibro>
+        <idCliente>19</idCliente>
+        <fecha>2026-01-22</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>12.00</total>
+    </factura>
+
+
+    <factura>
+        <idFactura>19</idFactura>
+        <idLibro>66</idLibro>
+        <idCliente>14</idCliente>
+        <fecha>2026-01-18</fecha>
+        <tipoDePago>Bitcoin</tipoDePago>
+        <total>100.00</total>
+    </factura>
+
+   
+    <factura>
+        <idFactura>20</idFactura>
+        <idLibro>33</idLibro>
+        <idCliente>-4</idCliente>
+        <fecha>2026-01-25</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>27.40</total>
+    </factura>
+    <factura>
+        <idFactura>21</idFactura>
+        <idLibro>10</idLibro>
+        <idCliente>3</idCliente>
+        <fecha>2026-01-01</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>12.50</total>
+    </factura>
+
+    <factura>
+        <idFactura>22</idFactura>
+        <idLibro>abc</idLibro>
+        <idCliente>7</idCliente>
+        <fecha>2026-01-02</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>20.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>23</idFactura>
+        <idLibro>15</idLibro>
+        <idCliente>-5</idCliente>
+        <fecha>2026-01-03</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>18.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>24</idFactura>
+        <idLibro>20</idLibro>
+        <idCliente>9</idCliente>
+        <fecha>2026-15-40</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>30.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>25</idFactura>
+        <idLibro></idLibro>
+        <idCliente>12</idCliente>
+        <fecha>2026-01-05</fecha>
+        <tipoDePago></tipoDePago>
+        <total>25.50</total>
+    </factura>
+
+    <factura>
+        <idFactura>26</idFactura>
+        <idLibro>18</idLibro>
+        <idCliente>10</idCliente>
+        <fecha>05-01-2026</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>40.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>27</idFactura>
+        <idLibro>30</idLibro>
+        <idCliente>11</idCliente>
+        <fecha>2026/01/07</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>veinte</total>
+    </factura>
+
+    <factura>
+        <idFactura>28</idFactura>
+        <idLibro>22</idLibro>
+        <idCliente>15</idCliente>
+        <fecha>2026-01-08</fecha>
+        <tipoDePago>Bitcoin</tipoDePago>
+        <total>100.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>29</idFactura>
+        <idLibro>14</idLibro>
+        <idCliente>8</idCliente>
+        <fecha>2026-01-09</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>-15.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>30</idFactura>
+        <idLibro>19</idLibro>
+        <idCliente>6</idCliente>
+        <fecha>2026-01-10</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>0</total>
+    </factura>
+
+    <factura>
+        <idFactura>31</idFactura>
+        <idLibro>50</idLibro>
+        <idCliente>20</idCliente>
+        <fecha>2026-01-11</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>9999.99</total>
+    </factura>
+
+    <factura>
+        <idFactura>32</idFactura>
+        <idLibro>17</idLibro>
+        <idCliente>xyz</idCliente>
+        <fecha>2026-01-12</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>45.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>33</idFactura>
+        <idLibro>21</idLibro>
+        <idCliente>18</idCliente>
+        <fecha></fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>33.33</total>
+    </factura>
+
+    <factura>
+        <idFactura>34</idFactura>
+        <idLibro>23</idLibro>
+        <idCliente>21</idCliente>
+        <fecha>2026-01-14</fecha>
+        <tipoDePago></tipoDePago>
+        <total>27.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>35</idFactura>
+        <idLibro>30</idLibro>
+        <idCliente>22</idCliente>
+        <fecha>2026-01-15</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>12,50</total>
+    </factura>
+
+    <factura>
+        <idFactura>36</idFactura>
+        <idLibro>30</idLibro>
+        <idCliente>22</idCliente>
+        <fecha>2026-01-15</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>12.50</total>
+    </factura>
+
+    <factura>
+        <idFactura>36</idFactura>
+        <idLibro>31</idLibro>
+        <idCliente>23</idCliente>
+        <fecha>2026-01-16</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>18.75</total>
+    </factura>
+
+    <factura>
+        <idFactura>37</idFactura>
+        <idLibro>-1</idLibro>
+        <idCliente>25</idCliente>
+        <fecha>2026-01-17</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>22.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>38</idFactura>
+        <idLibro>40</idLibro>
+        <idCliente>26</idCliente>
+        <fecha>2026-01-18</fecha>
+        <tipoDePago>Cheque</tipoDePago>
+        <total>60.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>39</idFactura>
+        <idLibro>41</idLibro>
+        <idCliente>27</idCliente>
+        <fecha>2026-01-19</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total> </total>
+    </factura>
+
+    <factura>
+        <idFactura>101</idFactura>
+        <idLibro>12</idLibro>
+        <idCliente>5</idCliente>
+        <fecha>2018-03-14</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>15.50</total>
+    </factura>
+
+    <factura>
+        <idFactura>102</idFactura>
+        <idLibro>abc</idLibro>
+        <idCliente>7</idCliente>
+        <fecha>2019-07-22</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>20.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>103</idFactura>
+        <idLibro>25</idLibro>
+        <idCliente>-3</idCliente>
+        <fecha>2020-01-10</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>18.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>104</idFactura>
+        <idLibro>30</idLibro>
+        <idCliente>9</idCliente>
+        <fecha>2021-05-06</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>-12.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>105</idFactura>
+        <idLibro></idLibro>
+        <idCliente>12</idCliente>
+        <fecha>2018-11-30</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>25.75</total>
+    </factura>
+
+    <factura>
+        <idFactura>106</idFactura>
+        <idLibro>18</idLibro>
+        <idCliente>xyz</idCliente>
+        <fecha>2022-02-19</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>40.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>107</idFactura>
+        <idLibro>22</idLibro>
+        <idCliente>15</idCliente>
+        <fecha>2019-09-03</fecha>
+        <tipoDePago>Bitcoin</tipoDePago>
+        <total>100.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>108</idFactura>
+        <idLibro>14</idLibro>
+        <idCliente>8</idCliente>
+        <fecha>2023-06-25</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>0</total>
+    </factura>
+
+    <factura>
+        <idFactura>109</idFactura>
+        <idLibro>19</idLibro>
+        <idCliente>6</idCliente>
+        <fecha>2020-12-01</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>30,50</total>
+    </factura>
+
+    <factura>
+        <idFactura>110</idFactura>
+        <idLibro>21</idLibro>
+        <idCliente>11</idCliente>
+        <fecha>2024-04-17</fecha>
+        <tipoDePago></tipoDePago>
+        <total>22.90</total>
+    </factura>
+
+    <factura>
+        <idFactura>111</idFactura>
+        <idLibro>33</idLibro>
+        <idCliente>20</idCliente>
+        <fecha>2018-08-09</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>9999.99</total>
+    </factura>
+
+    <factura>
+        <idFactura>112</idFactura>
+        <idLibro>40</idLibro>
+        <idCliente>ABC</idCliente>
+        <fecha>2021-10-28</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>55.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>113</idFactura>
+        <idLibro>27</idLibro>
+        <idCliente>18</idCliente>
+        <fecha>2019-02-14</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>veinte</total>
+    </factura>
+
+    <factura>
+        <idFactura>114</idFactura>
+        <idLibro>-1</idLibro>
+        <idCliente>21</idCliente>
+        <fecha>2025-01-05</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>27.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>115</idFactura>
+        <idLibro>30</idLibro>
+        <idCliente>22</idCliente>
+        <fecha>2020-06-18</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>12.50</total>
+    </factura>
+
+    <factura>
+        <idFactura>115</idFactura>
+        <idLibro>31</idLibro>
+        <idCliente>23</idCliente>
+        <fecha>2023-09-11</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>18.75</total>
+    </factura>
+
+    <factura>
+        <idFactura>116</idFactura>
+        <idLibro>50</idLibro>
+        <idCliente>25</idCliente>
+        <fecha>2018-12-20</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>22.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>117</idFactura>
+        <idLibro>60</idLibro>
+        <idCliente>26</idCliente>
+        <fecha>2024-07-02</fecha>
+        <tipoDePago>Cheque</tipoDePago>
+        <total>60.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>118</idFactura>
+        <idLibro>41</idLibro>
+        <idCliente>27</idCliente>
+        <fecha>2022-11-16</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total> </total>
+    </factura>
+
+    <factura>
+        <idFactura>119</idFactura>
+        <idLibro>70</idLibro>
+        <idCliente>28</idCliente>
+        <fecha>2026-01-08</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>45.30</total>
+    </factura>
+<factura>
+        <idFactura>201</idFactura>
+        <idLibro>11</idLibro>
+        <idCliente>4</idCliente>
+        <fecha>2018-02-10</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>14.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>202</idFactura>
+        <idLibro>XX</idLibro>
+        <idCliente>6</idCliente>
+        <fecha>2019-06-18</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>22.50</total>
+    </factura>
+
+    <factura>
+        <idFactura>203</idFactura>
+        <idLibro>17</idLibro>
+        <idCliente>-8</idCliente>
+        <fecha>2020-03-25</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>19.90</total>
+    </factura>
+
+    <factura>
+        <idFactura>204</idFactura>
+        <idLibro>24</idLibro>
+        <idCliente>10</idCliente>
+        <fecha>2021-08-14</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>-8.50</total>
+    </factura>
+
+    <factura>
+        <idFactura>205</idFactura>
+        <idLibro></idLibro>
+        <idCliente>13</idCliente>
+        <fecha>2018-12-02</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>26.75</total>
+    </factura>
+
+    <factura>
+        <idFactura>206</idFactura>
+        <idLibro>29</idLibro>
+        <idCliente>ABC</idCliente>
+        <fecha>2022-04-09</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>41.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>207</idFactura>
+        <idLibro>35</idLibro>
+        <idCliente>18</idCliente>
+        <fecha>2019-11-21</fecha>
+        <tipoDePago>Bitcoin</tipoDePago>
+        <total>120.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>208</idFactura>
+        <idLibro>16</idLibro>
+        <idCliente>9</idCliente>
+        <fecha>2023-05-30</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>0</total>
+    </factura>
+
+    <factura>
+        <idFactura>209</idFactura>
+        <idLibro>20</idLibro>
+        <idCliente>7</idCliente>
+        <fecha>2020-10-12</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>35,40</total>
+    </factura>
+
+    <factura>
+        <idFactura>210</idFactura>
+        <idLibro>28</idLibro>
+        <idCliente>14</idCliente>
+        <fecha>2024-01-19</fecha>
+        <tipoDePago></tipoDePago>
+        <total>24.60</total>
+    </factura>
+
+    <factura>
+        <idFactura>211</idFactura>
+        <idLibro>41</idLibro>
+        <idCliente>22</idCliente>
+        <fecha>2018-07-07</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>8888.88</total>
+    </factura>
+
+    <factura>
+        <idFactura>212</idFactura>
+        <idLibro>52</idLibro>
+        <idCliente>XYZ</idCliente>
+        <fecha>2021-09-16</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>48.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>213</idFactura>
+        <idLibro>31</idLibro>
+        <idCliente>19</idCliente>
+        <fecha>2019-01-28</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>treinta</total>
+    </factura>
+
+    <factura>
+        <idFactura>214</idFactura>
+        <idLibro>-6</idLibro>
+        <idCliente>24</idCliente>
+        <fecha>2025-02-03</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>29.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>215</idFactura>
+        <idLibro>37</idLibro>
+        <idCliente>25</idCliente>
+        <fecha>2020-05-11</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total>13.25</total>
+    </factura>
+
+    <factura>
+        <idFactura>216</idFactura>
+        <idLibro>37</idLibro>
+        <idCliente>25</idCliente>
+        <fecha>2023-08-20</fecha>
+        <tipoDePago>Tarjeta</tipoDePago>
+        <total>13.25</total>
+    </factura>
+
+    <factura>
+        <idFactura>217</idFactura>
+        <idLibro>58</idLibro>
+        <idCliente>27</idCliente>
+        <fecha>2018-10-29</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>21.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>218</idFactura>
+        <idLibro>63</idLibro>
+        <idCliente>28</idCliente>
+        <fecha>2024-06-08</fecha>
+        <tipoDePago>Cheque</tipoDePago>
+        <total>62.00</total>
+    </factura>
+
+    <factura>
+        <idFactura>219</idFactura>
+        <idLibro>71</idLibro>
+        <idCliente>29</idCliente>
+        <fecha>2022-12-17</fecha>
+        <tipoDePago>Efectivo</tipoDePago>
+        <total> </total>
+    </factura>
+
+    <factura>
+        <idFactura>220</idFactura>
+        <idLibro>80</idLibro>
+        <idCliente>30</idCliente>
+        <fecha>2026-01-12</fecha>
+        <tipoDePago>Transferencia</tipoDePago>
+        <total>47.80</total>
+    </factura>
+
+
+</facturas>
+
