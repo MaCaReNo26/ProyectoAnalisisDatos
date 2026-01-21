@@ -1,0 +1,204 @@
+id,nombre,categoria,autor,fecha_publicacion,stock,precio
+101,El retrato de Dorian Gray,Clásico,Oscar Wilde,1890-01-01,10,27.4
+102,Moby Dick,Clásico,Herman Melville,1851-01-01,6,35.9
+103,La naranja mecánica,Distopía,Anthony Burgess,01/01/1962,9,28.6
+104,El silencio de los inocentes,Suspenso,Thomas Harris,01/01/1988,8,31.9
+105,American Psycho,Suspenso,Bret Easton Ellis,01/01/1991,6,34.5
+106,El club de la pelea,Ficción,Chuck Palahniuk,01/01/1996,11,29.8O
+107,El padrino,Crimen,Mario Puzo,01/01/1969,7,32.4
+108,La chica del dragón tatuado,Misterio,Stieg Larsson,01/01/2005,10,33.9
+109,El nombre de la rosa,Misterio,Umberto Eco,01/01/1980,8,36.2
+110,El se̱or de los anillos (edición completa),Fantasía,J.R.R. Tolkien,01/01/1955,5,79.9
+111,El arte de la guerra,Estrategia,Sun Tzu,0500-01-01,12,18.5
+112,Así? habla? Zaratustra,Filosofía,Friedrich Nietzsche,1883-01-01,7,26.9
+113,El contrato social,Filosofía,Jean-Jacques Rousseau,1762-01-01,,24.3
+114,La rep̼blica,Filosofía,Platón,0380-01-01,5,29.8
+115,El príncipe,Filosofía,Nicolás Maquiavelo,1532-01-01,13,22.4O
+116,Walden,Filosofía,Henry David Thoreau,1854-01-01,,25.6
+117,El mito de Sísifo,Filosofía,Albert Camus,01/01/1942,18,27.9
+118,La peste,Ficción,Albert Camus,01/01/1947,9,28.5
+119,El extranjero,Ficciónn,Albert Camus,01/01/1942,10,24.8
+120,El lobo de Wall Street,Biografía,Jordan Belfort,01/01/2007,7,31.4
+121,Steve Jobs,Biografía,Walter Isaacson,01/01/2011,8,35.9O
+122,Sapiens,Historia,Yuval Noah Harari,01/01/2011,12,38.6
+123,Homo Deus,Historia,Yuval Noah Harari,01/01/2015,10,39.4
+124,El se̱or de los anillos (edición completa),Fantasía,J.R.R. Tolkien,01/01/1955,5,79.9
+125,El arte de la guerra,Estrategia,Sun Tzu,0500-01-01,12,18.5
+126,Así habla? Zaratustra,Filosofía,Friedrich Nietzsche,1883-01-01,17,26.9O
+127,21 lecciones para el siglo XXI,Historia,Yuval Noah Harari,01/01/2018,10,34.8
+128,Breve historia del tiempo,Ciencia,Stephen Hawking,01/01/1988,11,29.9
+129,El psicoanalista vuelve,Suspenso,John Katzenbach,01/01/2018,8,34.2
+130,La chica que so̱aba con una cerilla y un bidón de gasolina,Misterio,Stieg Larsson,01/01/2006,9,34.9
+131,La reina roja,Suspenso,Juan Gómez-Jurado,01/01/2018,14,32.5
+132,Loba negra,Suspenso,Juan Gómez-Jurado,01/01/2019,12,33.1O
+133,Rey blanco,Suspenso,Juan Gómez-Jurado,01/01/2020,11,34.6
+134,La verdad sobre el caso Harry Quebert,Misterio,Joél Dicker,01/01/2012,10,36.8
+135,El libro de los Baltimore,Misterio,Joél Dicker,01/01/2015,8,35.4
+136,La desaparición de Stephanie Mailer,Misterio,Joél Dicker,01/01/2018,9,37.2
+137,El código del dinero,Economía,Raimon Sams,01/01/2017,7,29.9
+138,Padre rico padre pobre,Finanzas,Robert Kiyosaki,01/01/1997,15,31.6
+139,Los secretos de la mente millonaria,Finanzas,T. Harv Eker,01/01/2005,13,28.4
+140,Piense y hágase rico,Finanzas,Napoleon Hill,01/01/1937,11,26.9
+141,El monje que vendió su Ferrari,Autoayuda,Robin Sharma,01/01/1997,14,25.8
+142,Qui̩n se ha llevado mi queso,Autoayuda,Spencer Johnson,01/01/1998,16,19.9
+143,Los cuatro acuerdos,Autoayuda,Miguel Ruiz,01/01/1997,12,22.4
+144,El poder del ahora,Autoayuda,Eckhart Tolle,01/01/1997,10,29.3
+145,Hábitos atómicos,Autoayuda,James Clear,01/01/2018,18,34.9O
+146,El club de las 5 de la ma̱ana,Autoayuda,Robin Sharma,01/01/2018,11,32.8
+147,El sutil arte de que (casi todo) te importe un carajo,Autoayuda,Mark Manson,01/01/2016,17,30.6
+148,Deja de ser t̼,Autoayuda,Joe Dispenza,01/01/2012,9,33.4
+149,El cerebro del ni̱o,Psychología,Daniel J. Siegel,01/01/2011,8,error
+150,Inteligencia emocional,Psychología,Daniel Goleman,01/01/1995,14,34.7
+151,El hombre en busca de sentido,Psychología,Viktor Frankl,01/01/1946,15,27.5
+152,Psicología oscura,Psychología,Steven Turner,01/01/2019,7,29.8
+153,El poder de los hábitos,Psychología,Charles Duhigg,01/01/2012,13,error
+154,La mente organizada,Psychología,Daniel Levitin,01/01/2014,8,32.1
+155,El cerebro y la inteligencia emocional,Psychología,Daniel Goleman,01/01/2011,9,30.4
+156,El arte de amar,Filosofía,Erich Fromm,01/01/1956,12,24.9
+157,El miedo a la libertad,Filosofía,Erich Fromm,01/01/1941,,26.8
+158,El ser y la nada,Filosofía,Jean-Paul Sartre,01/01/1943,5,38.6
+159,La náusea,Filosofía,Jean-Paul Sartre,01/01/1938,8,27.4
+160,Ética a Nicmaco,Filosofía,Aristóteles,0340-01-01,,29.1
+161,Política,Filosofía,Aristóteles,0330-01-01,5,31.8
+162,El mundo de Sofía,Filosofía,Jostein Gaarder,01/01/1991,14,28.9
+163,El capital,Economía,Karl Marx,18670101,2,42.5
+164,La riqueza de las naciones,Economía,Adam Smith,1776-01-01,,39.4O
+165,Freakonomics,Economía,Steven Levitt,20050101,9,34.2
+166,Economía en una lección,Economía,Henry Hazlitt,01/01/1946,8,29.7
+167,Una breve historia de la economía,Economía,Niall Kishtainy,20170101,,31.6
+168,El gen egoísta,Ciencia,Richard Dawkins,01/01/1976,,36.8
+169,El origen de las especies,Ciencia,Charles Darwin,1859-01-01,5,4O.9O
+170,Cosmos,Ciencia,Carl Sagan,01/01/1980,10,38.5
+171,El universo en una cáscara de nuez,Ciencia,Stephen Hawking,01/01/2001,,35.2
+172,Astrofísica para gente con prisas,Ciencia,Neil deGrasse Tyson,01/01/2017,12,29.8
+173,El genoma,Ciencia,Matt Ridley,01/01/1999,6,33.4
+174,Historia del tiempo,Ciencia,Stephen Hawking,01/01/1988,10,29.9
+175,El cerebro,Psychología,David Eagleman,01/01/2011,8,32.6
+176,El código de la mente,Psychología,Stanislaw Dehaene,01/01/2014,7,34.1O
+177,La inteligencia colectiva,Tecnología,Pierre L̩vy,01/01/1994,6,28.9
+178,La cuarta revolución industrial,Tecnología,Klaus Schwab,01/01/2016,9,31.5
+179,Inteligencia artificial,Tecnología,Stuart Russell,01/01/2019,7,39.8
+180,Elon Musk,Biografía,Ashlee Vance,20150101,10,36.4
+181,Bill Gates,Biografía,Stephen Manes,19940101,16,34.9O
+182,Jeff Bezos,Biografía,Brad Stone,20130101,7,35.8
+183,Open,Biografía,Andre Agassi,01/01/2009,8,33.2
+184,Yo soy Malala,Biografía,Malala Yousafzai,20130101,,28.6O
+185,Long Walk to Freedom,Biografía,Nelson Mandela,01/01/1994,5,37.9
+186,Educated,Biografía,Tara Westover,01/01/2018,9,34.1
+187,Becoming,Biografía,Michelle Obama,20180101,12,36.7
+188,La biografía de Einstein,Biografía,Walter Isaacson,01/01/2007,,38.4
+189,El código limpio,Programación,Robert C. Martin,01/01/2008,10,42.6
+190,Refactoring,Programación,Martin Fowler,01/01/1999,7,44.9
+191,Design Patterns,Programación,Erich Gamma,01/01/1994,,46.8
+192,You Don�۪t Know JS,Programación,Kyle Simpson,01/01/2015,9,39.2
+193,Python Crash Course,Programación,Eric Matthes,01/01/2016,12,37.5
+194,Aprende SQL,Programación,Alan Beaulieu,01/01/2009,,35.4
+195,Introducción a algoritmos,Programación,Thomas H. Cormen,01/01/2009,5,49.9
+196,JavaScript: The Good Parts,Programación,Douglas Crockford,01/01/2008,8,34.6
+197,Effective Java,Programación,Joshua Bloch,01/01/2001,,45.3
+198,Clean Architecture,Programación,Robert C. Martin,01/01/2017,7,43.8
+199,Redes de computadoras,Tecnología,Andrew Tanenbaum,01/01/2011,6,41.9
+200,Sistemas operativos,Tecnología,Abraham Silberschatz,01/01/2014,5,44.2
+201,Ingeniería de software,Programación,Ian Sommerville,01/01/2015,,42.1
+202,Base de datos,Sistemas,Raghu Ramakrishnan,01/01/2003,6,40.6
+203,Arquitectura de computadoras,Tecnología,John L. Hennessy,01/01/2011,5,45.7
+204,Cien años de soledad,Novela,Gabriel García Márquez,30/05/1967,6,12.13
+205,El principito,Infantil,Antoine de Saint-Exupéry,06/04/1943,10,0
+206,Don Quijote de la Mancha,Clásico,Miguel de Cervantes,1605-01-16,4,15.26
+207,1984,Ciencia ficción,George Orwell,08/06/1949,7,23.15
+208,Harry Potter y la piedra filosofal,Fantasía,J.K. Rowling,26/06/1997,12,7.56
+209,Orgullo y prejuicio,Romance,Jane Austen,1813-01-28,5,48.2
+210,La Odisea,Épico,Homero,0800-01-01,3,18.45
+211,El arte de la guerra,Historia,Fen Sun Tzu,0500-01-01,9,48.26
+212,Sapiens,Historia,Yuval Noah Harari,01/01/2011,8,15.23
+213,Hábitos atómicos,Autoayuda,James Clear,16/10/2018,15,47.56
+214,Piense y hágase rico,Autoayuda,Napoleon Hill,01/03/1937,6,15.23
+215,Introducción a Python,Programación,Mark Lutz,15/02/2020,11,14.52
+216,Estructuras de Datos,Programación,Robert Lafore,10/09/2019,7,78.56
+217,El origen de las especies,Ciencia,Charles Darwin,1859-11-24,4,74.12
+218,Una breve historia del tiempo,Ciencia,Stephen Hawking,01/04/1988,5,12.14
+219,La divina comedia,Poesía,Dante Alighieri,1320-01-01,2, null
+220,Filosofía para principiantes,Filosofía,Richard Osborne,12/06/2005,8,36.12
+221,El código Da Vinci,Suspenso,Dan Brown,18/03/2003,9,12.36
+222,Crónica de una muerte anunciada,Novela,Gabriel García Márquez,01/04/1981,6,18.4
+223,Los juegos del hambre,Ciencia ficción,Suzanne Collins,14/09/2008,10,48.85
+224,El señor de los anillos,Fantasía,J.R.R. Tolkien,29/07/1954,5,48
+225,Manual de redes,Tecnología,Andrew Tanenbaum,20/01/2018,4,12.58
+226,Educación financiera,Economía,Robert Kiyosaki,01/04/1997,7,74.6
+227,El diario de Ana Frank,Biografía,Ana Frank,25/06/1947,6,41
+228,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+229,Los juegos del hambre,Ciencia ficción,Suzanne Collins,14/09/2008,10,48.85
+230,El señor de los anillos,Fantasía,J.R.R. Tolkien,29/07/1954,5,48
+231,Manual de redes,Tecnología,Andrew Tanenbaum,20/01/2018,4,12.58
+232,Educación financiera,Economía,Robert Kiyosaki,01/04/1997,7,74.6
+233,El diario de Ana Frank,Biografía,Ana Frank,25/06/1947,6,41
+234,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+235,Los juegos del hambre,Ciencia ficción,Suzanne Collins,14/09/2008,10,48.85
+236,El señor de los anillos, ,J.R.R. Tolkien,29/07/1954,5,48
+237,Manual de redes,Tecnología,Andrew Tanenbaum,20/01/2018,4,12.58
+238,Educación financiera,Economía,Robert Kiyosaki,01/04/1997,7,74.6
+239,El diario de Ana Frank,Biografía,Ana Frank,25/06/1947,6,41
+240,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+241,Los juegos del hambre,Ciencia ficción,Suzanne Collins,14/09/2008,10,48.85
+242,El señor de los anillos,Fantasía,J.R.R. Tolkien,29/07/1954,5,48
+243,Manual de redes,Tecnología,Andrew Tanenbaum,20/01/2018,4,12.58
+244,Educación financiera,Economía,Robert Kiyosaki,01/04/1997,7,74.6
+245,El diario de Ana Frank,Biografía,Ana Frank,25/06/1947,6,41
+246,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+247,Crónica de una muerte anunciada,Novela,Gabriel García Márquez,01/04/1981,6,18.4
+248,Los juegos del hambre,Ciencia ficción,Suzanne Collins,14/09/2008,10,48.85
+249,El señor de los anillos,Fantasía,J.R.R. Tolkien,29/07/1954,5,48
+250,Manual de redes,Tecnología,Andrew Tanenbaum,20/01/2018,4,12.58
+251,Educación financiera,Economía,Robert Kiyosaki,01/04/1997,7,74.6
+252,El diario de Ana Frank,Biografía,Ana Frank,25/06/1947,6,41
+253,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+254,Los juegos del hambre,Ciencia ficción,Suzanne Collins,14/09/2008,10,48.85
+255,El señor de los anillos,Fantasía,J.R.R. Tolkien,29/07/1954,5,48
+256, ,Tecnología,Andrew Tanenbaum,20/01/2018,4,12.58
+257,Educación financiera,Economía,Robert Kiyosaki,01/04/1997,7,74.6
+258,El diario de Ana Frank,Biografía,Ana Frank,25/06/1947,6,41
+259,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+260,Los juegos del hambre,Ciencia ficción,Suzanne Collins,14/09/2008,10,48.85
+261,El señor de los anillos,Fantasía,J.R.R. Tolkien,29/07/1954,5,48
+262,Manual de redes,Tecnología,Andrew Tanenbaum,20/01/2018,4,12.58
+263,Educación financiera,Economía,Robert Kiyosaki,01/04/1997,7,74.6
+264,El diario de Ana Frank,Biografía,Ana Frank,25/06/1947,6,
+265,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+266,El principito,Infantil,Antoine de Saint-Exupéry,06/04/1943,10,0
+267,Don Quijote de la Mancha,Clásico,Miguel de Cervantes,1605-01-16,4, 
+268,1984,Ciencia ficción,George Orwell,08/06/1949,7,23.15
+269,Harry Potter y la piedra filosofal,Fantasía,J.K. Rowling,26/06/1997,12,7.56
+270,Orgullo y prejuicio,Romance,Jane Austen,1813-01-28,5,48.2
+271,La Odisea,Épico,Homero,0800-01-01,3,18.45
+272,El arte de la guerra,Historia,Fen Sun Tzu,0500-01-01,9,48.26
+273,Sapiens,Historia,Yuval Noah Harari,01/01/2011,8,15.23
+274,bitos atómicos,Autoayuda,James Clear,16/10/2018,15,47.56
+275,iense y hágase rico,Autoayuda,Napoleon Hill,01/03/1937,6,15.23
+276,Programación,Mark Lutz,15/02/2020,11,14.52,
+277,Programación,Robert Lafore,10/09/2019,7,,56
+278,El origen de las especies,Ciencia,Charles Darwin,1859-11-24,4,74.12
+279,Una breve historia del tiempo,Ciencia,Stephen Hawking,01/04/1988,5,12.14
+280,La divina comedia,Poesía,Dante Alighieri,1320-01-01,2, null
+281,Filosofía para principiantes,Filosofía,Richard Osborne,12/06/2005,8,36.12
+282,El código Da Vinci,Suspenso,Dan Brown,18/03/2003,9,12.36
+283,Crónica de una muerte anunciada,Novela,Gabriel García Márquez,01/04/1981,6,18.4
+284,Los juegos del hambre,Ciencia ficción,Suzanne Collins,14/09/2008,10,48.85
+285,El señor de los anillos,Fantasía,J.R.R. Tolkien,29/07/1954,5,48
+286,Manual de redes,Tecnología,Andrew Tanenbaum,20/01/2018,4,12.58
+287,Educación financiera,Economía,Robert Kiyosaki,01/04/1997,7,74.6
+288,El diario de Ana Frank,Biografía,Ana Frank,25/06/1947, ,41
+289,El libro de la selva,Infantil,Rudyard Kipling,1894-01-01,8,none
+204,Cien años de soledad,Novela,Gabriel García Márquez,30/05/1967,6,12.13
+205,El principito,Infantil,Antoine de Saint-Exupéry,06/04/1943,10,0
+206,Don Quijote de la Mancha,Clásico,Miguel de Cervantes,1605-01-16,4,15.26
+207,1984,Ciencia ficción,George Orwell,08/06/1949,7,23.15
+208,Harry Potter y la piedra filosofal,Fantasía,J.K. Rowling,26/06/1997,12,7.56
+209,Orgullo y prejuicio,Romance,Jane Austen,1813-01-28,5,48.2
+210,La Odisea,Épico,Homero,0800-01-01,3,18.45
+211,El arte de la guerra,Historia,Fen Sun Tzu,0500-01-01,9,48.26
+212,Sapiens,Historia,Yuval Noah Harari,01/01/2011,8,15.23
+213,Hábitos atómicos,Autoayuda,James Clear,16/10/2018,15,47.56
+214,Piense y hágase rico,Autoayuda,Napoleon Hill,01/03/1937,6,15.23
+215,Introducción a Python,Programación,Mark Lutz,15/02/2020,11,14.52
+216,Estructuras de Datos,Programación,Robert Lafore,10/09/2019,7,78.56
+217,El origen de las especies,Ciencia,Charles Darwin,1859-11-24,4,74.12
