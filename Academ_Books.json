@@ -1,0 +1,1063 @@
+[
+  {
+    "id": 1,
+    "nombre": "La montaña mágica",
+    "categoria": "Novela",
+    "autor": "Thomas Mann",
+    "fecha": "1924-11-01",
+    "stock": "",
+    "precio": 34.50
+  },
+  {
+    "id": 2,
+    "nombre": "El lobo estepario",
+    "categoria": "N/A",
+    "autor": "Hermann Hesse",
+    "fecha": "1927-01-01",
+    "stock": 6,
+    "precio": 28.90
+  },
+  {
+    "id": 3,
+    "nombre": "Demian",
+    "categoria": "N/A",
+    "autor": "Hermann Hesse",
+    "fecha": "1919-01-01",
+    "stock": 10,
+    "precio": 21.40
+  },
+  {
+    "id": 4,
+    "nombre": "El proceso",
+    "categoria": "Ficción",
+    "autor": "Franz Kafka",
+    "fecha": "1925-04-26",
+    "stock": "",
+    "precio": 26.75
+  },
+  {
+    "id": 5,
+    "nombre": "Crimen y castigo",
+    "categoria": "Clásico",
+    "autor": "Fiódor Dostoyevski",
+    "fecha": "1866-01-01",
+    "stock": 5,
+    "precio": 39.80
+  },
+  {
+    "id": 6,
+    "nombre": "Los hermanos Karamázov",
+    "categoria": "Clásico",
+    "autor": "Fiódor Dostoyevski",
+    "fecha": "1880-01-01",
+    "stock": "",
+    "precio": 45.20
+  },
+  {
+    "id": 7,
+    "nombre": "Madame Bovary",
+    "categoria": "Novela",
+    "autor": "Gustave Flaubert",
+    "fecha": "1857-01-01",
+    "stock": "",
+    "precio": 32.10
+  },
+  {
+    "id": 8,
+    "nombre": "El rojo y el negro",
+    "categoria": "Clásico",
+    "autor": "Stendhal",
+    "fecha": "1830-01-01",
+    "stock": 6,
+    "precio": 29.60
+  },
+  {
+    "id": 9,
+    "nombre": "Guerra y paz",
+    "categoria": "Histórica",
+    "autor": "León Tolstói",
+    "fecha": "1869-01-01",
+    "stock": "3e",
+    "precio": 52.90
+  },
+  {
+    "id": 10,
+    "nombre": "Anna Karénina",
+    "categoria": "Novela",
+    "autor": "León Tolstói",
+    "fecha": "1877-01-01",
+    "stock": 7,
+    "precio": "error"
+  },
+
+  {
+    "id": 11,
+    "nombre": "El guardián entre el centeno",
+    "categoria": "Ficción",
+    "autor": "J.D. Salinger",
+    "fecha": "1951-07-16",
+    "stock": "12w",
+    "precio": 27.90
+  },
+  {
+    "id": 12,
+    "nombre": "Mujercitas",
+    "categoria": "Novela",
+    "autor": "Louisa May Alcott",
+    "fecha": "1868-01-01",
+    "stock": 10,
+    "precio": 24.50
+  },
+  {
+    "id": 13,
+    "nombre": "Dr. Jekyll y Mr. Hyde",
+    "categoria": "Terror",
+    "autor": "Robert Louis Stevenson",
+    "fecha": "1886-01-01",
+    "stock": 8,
+    "precio": 19.80
+  },
+  {
+    "id": 14,
+    "nombre": "El corazón de las tinieblas",
+    "categoria": "Novela",
+    "autor": "Joseph Conrad",
+    "fecha": "1899-01-01",
+    "stock": "6y",
+    "precio": 23.40
+  },
+  {
+    "id": 15,
+    "nombre": "La letra escarlata",
+    "categoria": "Drama",
+    "autor": "Nathaniel Hawthorne",
+    "fecha": "1850-01-01",
+    "stock": 7,
+    "precio": 26.10
+  },
+
+  {
+    "id": 16,
+    "nombre": "Viaje al centro de la Tierra",
+    "categoria": "Ciencia ficción",
+    "autor": "Julio Verne",
+    "fecha": "1864-01-01",
+    "stock": 12,
+    "precio": 28.60
+  },
+  {
+    "id": 17,
+    "nombre": "Veinte mil leguas de viaje submarino",
+    "categoria": "Ciencia ficción",
+    "autor": "Julio Verne",
+    "fecha": "1870-01-01",
+    "stock": 8,
+    "precio": 31.20
+  },
+  {
+    "id": 18,
+    "nombre": "La vuelta al mundo en ochenta días",
+    "categoria": "Aventura",
+    "autor": "Julio Verne",
+    "fecha": "1873-01-01",
+    "stock": 9,
+    "precio": 26.75
+  },
+  {
+    "id": 19,
+    "nombre": "El hombre invisible",
+    "categoria": "Ciencia ficción",
+    "autor": "H.G. Wells",
+    "fecha": "1897-01-01",
+    "stock": 7,
+    "precio": 24.90
+  },
+  {
+    "id": 20,
+    "nombre": "La guerra de los mundos",
+    "categoria": "Ciencia ficción",
+    "autor": "H.G. Wells",
+    "fecha": "1898-01-01",
+    "stock": 5,
+    "precio": 27.60
+  },
+
+  {
+    "id": 21,
+    "nombre": "El conde de Montecristo",
+    "categoria": "Aventura",
+    "autor": "Alexandre Dumas",
+    "fecha": "1844-01-01",
+    "stock": 6,
+    "precio": 48.75
+  },
+  {
+    "id": 22,
+    "nombre": "Los tres mosqueteros",
+    "categoria": "Aventura",
+    "autor": "Alexandre Dumas",
+    "fecha": "1844-01-01",
+    "stock": 9,
+    "precio": 33.40
+  },
+  {
+    "id": 23,
+    "nombre": "La isla del tesoro",
+    "categoria": "Aventura",
+    "autor": "Robert Louis Stevenson",
+    "fecha": "1883-01-01",
+    "stock": 10,
+    "precio": 21.90
+  },
+  {
+    "id": 24,
+    "nombre": "Robinson Crusoe",
+    "categoria": "Aventura",
+    "autor": "Daniel Defoe",
+    "fecha": "1719-01-01",
+    "stock": 7,
+    "precio": 25.80
+  },
+  {
+    "id": 25,
+    "nombre": "La historia interminable",
+    "categoria": "Fantasía",
+    "autor": "Michael Ende",
+    "fecha": "1979-01-01",
+    "stock": 12,
+    "precio": 37.60
+  },
+  {
+    "id": 26,
+    "nombre": "1984",
+    "categoria": "Distopía",
+    "autor": "George Orwell",
+    "fecha": "1949-06-08",
+    "stock": 14,
+    "precio": 29.90
+  },
+  {
+    "id": 27,
+    "nombre": "Rebelión en la granja",
+    "categoria": "Distopía",
+    "autor": "George Orwell",
+    "fecha": "1945-08-17",
+    "stock": 15,
+    "precio": 19.50
+  },
+  {
+    "id": 28,
+    "nombre": "Fahrenheit 451",
+    "categoria": "Ciencia ficción",
+    "autor": "Ray Bradbury",
+    "fecha": "1953-10-19",
+    "stock": 11,
+    "precio": 24.30
+  },
+  {
+    "id": 29,
+    "nombre": "Un mundo feliz",
+    "categoria": "Distopía",
+    "autor": "Aldous Huxley",
+    "fecha": "1932-01-01",
+    "stock": 9,
+    "precio": 27.80
+  },
+  {
+    "id": 30,
+    "nombre": "El señor de las moscas",
+    "categoria": "Ficción",
+    "autor": "William Golding",
+    "fecha": "1954-09-17",
+    "stock": 8,
+    "precio": 22.60
+  },
+
+  {
+    "id": 31,
+    "nombre": "Cien años de soledad",
+    "categoria": "Realismo mágico",
+    "autor": "Gabriel García Márquez",
+    "fecha": "1967-05-30",
+    "stock": 13,
+    "precio": "error"
+  },
+  {
+    "id": 32,
+    "nombre": "El amor en los tiempos del cólera",
+    "categoria": "Novela",
+    "autor": "Gabriel García Márquez",
+    "fecha": "1985-01-01",
+    "stock": 10,
+    "precio": "error"
+  },
+  {
+    "id": 33,
+    "nombre": "Rayuela",
+    "categoria": "Novela",
+    "autor": "Julio Cortázar",
+    "fecha": "1963-01-01",
+    "stock": "7uu",
+    "precio": 34.20
+  },
+  {
+    "id": 34,
+    "nombre": "La casa de los espíritus",
+    "categoria": "Realismo mágico",
+    "autor": "Isabel Allende",
+    "fecha": "1982-01-01",
+    "stock": "9o",
+    "precio": 30.80
+  },
+  {
+    "id": 35,
+    "nombre": "Pedro Páramo",
+    "categoria": "Novela",
+    "autor": "Juan Rulfo",
+    "fecha": "1955-01-01",
+    "stock": 8,
+    "precio": 21.40
+  },
+
+  {
+    "id": 36,
+    "nombre": "Don Quijote de la Mancha",
+    "categoria": "Clásico",
+    "autor": "Miguel de Cervantes",
+    "fecha": "1605-01-01",
+    "stock": 6,
+    "precio": 49.90
+  },
+  {
+    "id": 37,
+    "nombre": "La Celestina",
+    "categoria": "Drama",
+    "autor": "Fernando de Rojas",
+    "fecha": "1499-01-01",
+    "stock": "",
+    "precio": 27.30
+  },
+  {
+    "id": 38,
+    "nombre": "El Lazarillo de Tormes",
+    "categoria": "Clásico",
+    "autor": "Anónimo",
+    "fecha": "1554-01-01",
+    "stock": 7,
+    "precio": 19.90
+  },
+  {
+    "id": 39,
+    "nombre": "Fuenteovejuna",
+    "categoria": "Teatro",
+    "autor": "Lope de Vega",
+    "fecha": "1619-01-01",
+    "stock": 5,
+    "precio": 23.80
+  },
+  {
+    "id": 40,
+    "nombre": "La vida es sueño",
+    "categoria": "Teatro",
+    "autor": "Pedro Calderón de la Barca",
+    "fecha": "1635-01-01",
+    "stock": 6,
+    "precio": 25.40
+  },
+
+  {
+    "id": 41,
+    "nombre": "Hamlet",
+    "categoria": "Tragedia",
+    "autor": "William Shakespeare",
+    "fecha": "1603-01-01",
+    "stock": "",
+    "precio": 28.60
+  },
+  {
+    "id": 42,
+    "nombre": "Romeo y Julieta",
+    "categoria": "Tr4gedia",
+    "autor": "William Shakespeare",
+    "fecha": "1597-01-01",
+    "stock": 11,
+    "precio": 26.90
+  },
+  {
+    "id": 43,
+    "nombre": "Macbeth",
+    "categoria": "Tr4gedia",
+    "autor": "William Shakespeare",
+    "fecha": "1606-01-01",
+    "stock": 7,
+    "precio": 24.70
+  },
+  {
+    "id": 44,
+    "nombre": "Otelo",
+    "categoria": "Tragedia",
+    "autor": "William Shakespeare",
+    "fecha": "1604-01-01",
+    "stock": 6,
+    "precio": 25.10
+  },
+  {
+    "id": 45,
+    "nombre": "El mercader de Venecia",
+    "categoria": "Teatro",
+    "autor": "William Shakespeare",
+    "fecha": "1596-01-01",
+    "stock": 5,
+    "precio": 23.60
+  },
+
+  {
+    "id": 46,
+    "nombre": "Orgullo y prejuicio",
+    "categoria": "Romance",
+    "autor": "Jane Austen",
+    "fecha": "1813-01-01",
+    "stock": 12,
+    "precio": 29.40
+  },
+  {
+    "id": 47,
+    "nombre": "Sentido y sensibilidad",
+    "categoria": "Romance",
+    "autor": "Jane Austen",
+    "fecha": "1811-01-01",
+    "stock": 8,
+    "precio": 27.20
+  },
+  {
+    "id": 48,
+    "nombre": "Jane Eyre",
+    "categoria": "Romance",
+    "autor": "Charlotte Brontë",
+    "fecha": "1847-01-01",
+    "stock": 9,
+    "precio": 31.50
+  },
+  {
+    "id": 49,
+    "nombre": "Cumbres borrascosas",
+    "categoria": "Romance",
+    "autor": "Emily Brontë",
+    "fecha": "1847-01-01",
+    "stock": 7,
+    "precio": 30.10
+  },
+  {
+    "id": 50,
+    "nombre": "Frankenstein",
+    "categoria": "Terror",
+    "autor": "Mary Shelley",
+    "fecha": "1818-01-01",
+    "stock": 10,
+    "precio": 26.80
+  },
+
+  {
+    "id": 51,
+    "nombre": "Drácula",
+    "categoria": "Terror",
+    "autor": "Bram Stoker",
+    "fecha": "1897-01-01",
+    "stock": 11,
+    "precio": 28.90
+  },
+  {
+    "id": 52,
+    "nombre": "It",
+    "categoria": "Terror",
+    "autor": "Stephen King",
+    "fecha": "1986-01-01",
+    "stock": 8,
+    "precio": 39.60
+  },
+  {
+    "id": 53,
+    "nombre": "El resplandor",
+    "categoria": "Terror",
+    "autor": "Stephen King",
+    "fecha": "1977-01-01",
+    "stock": 9,
+    "precio": 35.40
+  },
+  {
+    "id": 54,
+    "nombre": "Misery",
+    "categoria": "Suspenso",
+    "autor": "Stephen King",
+    "fecha": "1987-01-01",
+    "stock": 7,
+    "precio": 31.20
+  },
+  {
+    "id": 55,
+    "nombre": "El psicoanalista",
+    "categoria": "Suspenso",
+    "autor": "John Katzenbach",
+    "fecha": "2002-01-01",
+    "stock": 10,
+    "precio": 33.80
+  },
+
+  {
+    "id": 56,
+    "nombre": "El código Da Vinci",
+    "categoria": "Misterio",
+    "autor": "Dan Brown",
+    "fecha": "2003-01-01",
+    "stock": 14,
+    "precio": 29.90
+  },
+  {
+    "id": 57,
+    "nombre": "Ángeles y demonios",
+    "categoria": "Misterio",
+    "autor": "Dan Brown",
+    "fecha": "2000-01-01",
+    "stock": 12,
+    "precio": 28.50
+  },
+  {
+    "id": 58,
+    "nombre": "Inferno",
+    "categoria": "Misterio",
+    "autor": "Dan Brown",
+    "fecha": "2013-01-01",
+    "stock": 9,
+    "precio": 27.60
+  },
+  {
+    "id": 59,
+    "nombre": "El nombre del viento",
+    "categoria": "Fantasía",
+    "autor": "Patrick Rothfuss",
+    "fecha": "2007-01-01",
+    "stock": 8,
+    "precio": 38.40
+  },
+  {
+    "id": 60,
+    "nombre": "El temor de un hombre sabio",
+    "categoria": "Fantasía",
+    "autor": "Patrick Rothfuss",
+    "fecha": "2011-01-01",
+    "stock": 6,
+    "precio": 42.70
+  },
+
+  {
+    "id": 61,
+    "nombre": "El hobbit",
+    "categoria": "Fantasía",
+    "autor": "J.R.R. Tolkien",
+    "fecha": "1937-01-01",
+    "stock": 15,
+    "precio": 32.90
+  },
+  {
+    "id": 62,
+    "nombre": "La comunidad del anillo",
+    "categoria": "Fantasía",
+    "autor": "J.R.R. Tolkien",
+    "fecha": "1954-01-01",
+    "stock": 10,
+    "precio": 35.60
+  },
+  {
+    "id": 63,
+    "nombre": "Las dos torres",
+    "categoria": "Fantasía",
+    "autor": "J.R.R. Tolkien",
+    "fecha": "1954-01-01",
+    "stock": 9,
+    "precio": 36.20
+  },
+  {
+    "id": 64,
+    "nombre": "El retorno del rey",
+    "categoria": "Fantasía",
+    "autor": "J.R.R. Tolkien",
+    "fecha": "1955-01-01",
+    "stock": 8,
+    "precio": 37.10
+  },
+  {
+    "id": 65,
+    "nombre": "Juego de tronos",
+    "categoria": "Fantasía",
+    "autor": "George R.R. Martin",
+    "fecha": "1996-01-01",
+    "stock": 11,
+    "precio": 39.90
+  },
+
+  {
+    "id": 66,
+    "nombre": "Choque de reyes",
+    "categoria": "Fantasía",
+    "autor": "George R.R. Martin",
+    "fecha": "1998-01-01",
+    "stock": 9,
+    "precio": 41.30
+  },
+  {
+    "id": 67,
+    "nombre": "Tormenta de espadas",
+    "categoria": "Fantasía",
+    "autor": "George R.R. Martin",
+    "fecha": "2000-01-01",
+    "stock": 7,
+    "precio": 44.80
+  },
+  {
+    "id": 68,
+    "nombre": "El alquimista",
+    "categoria": "N/A",
+    "autor": "Paulo Coelho",
+    "fecha": "1988-01-01",
+    "stock": 16,
+    "precio": 22.50
+  },
+  {
+    "id": 69,
+    "nombre": "Once minutos",
+    "categoria": "Novela",
+    "autor": "Paulo Coelho",
+    "fecha": "2003-01-01",
+    "stock": 10,
+    "precio": 24.90
+  },
+  {
+    "id": 70,
+    "nombre": "Veronika decide morir",
+    "categoria": "Novela",
+    "autor": "Paulo Coelho",
+    "fecha": "1998-01-01",
+    "stock": 8,
+    "precio": 23.70
+  },
+
+  {
+    "id": 71,
+    "nombre": "Los juegos del hambre",
+    "categoria": "Distopía",
+    "autor": "Suzanne Collins",
+    "fecha": "2008-01-01",
+    "stock": "",
+    "precio": 28.40
+  },
+  {
+    "id": 72,
+    "nombre": "En llamas",
+    "categoria": "Distopía",
+    "autor": "Suzanne Collins",
+    "fecha": "2009-01-01",
+    "stock": "",
+    "precio": 29.10
+  },
+  {
+    "id": 73,
+    "nombre": "Sinsajo",
+    "categoria": "Distopía",
+    "autor": "Suzanne Collins",
+    "fecha": "2010-01-01",
+    "stock": "",
+    "precio": 30.20
+  },
+  {
+    "id": 74,
+    "nombre": "Divergente",
+    "categoria": "Distopía",
+    "autor": "Veronica Roth",
+    "fecha": "2011-01-01",
+    "stock": 10,
+    "precio": 27.90
+  },
+  {
+    "id": 75,
+    "nombre": "Insurgente",
+    "categoria": "Distopía",
+    "autor": "Veronica Roth",
+    "fecha": "2012-01-01",
+    "stock": 9,
+    "precio": 28.80
+  },
+
+  {
+    "id": 76,
+    "nombre": "Leal",
+    "categoria": "Distopía",
+    "autor": "Veronica Roth",
+    "fecha": "2013-01-01",
+    "stock": 8,
+    "precio": 29.60
+  },
+  {
+    "id": 77,
+    "nombre": "El principito",
+    "categoria": "Fábula",
+    "autor": "Antoine de Saint-Exupéry",
+    "fecha": "1943-01-01",
+    "stock": 20,
+    "precio": 18.90
+  },
+  {
+    "id": 78,
+    "nombre": "Alicia en el país de las maravillas",
+    "categoria": "Fantasía",
+    "autor": "Lewis Carroll",
+    "fecha": "1865-01-01",
+    "stock": 13,
+    "precio": 22.30
+  },
+  {
+    "id": 79,
+    "nombre": "A través del espejo",
+    "categoria": "Fantasía",
+    "autor": "Lewis Carroll",
+    "fecha": "1871-01-01",
+    "stock": 9,
+    "precio": 23.10
+  },
+  {
+    "id": 80,
+    "nombre": "Pinocho",
+    "categoria": "Fábula",
+    "autor": "Carlo Collodi",
+    "fecha": "1883-01-01",
+    "stock": 12,
+    "precio": 20.40
+  },
+
+  {
+    "id": 81,
+    "nombre": "El diario de Ana Frank",
+    "categoria": "Biografía",
+    "autor": "Ana Frank",
+    "fecha": "1947-01-01",
+    "stock": 14,
+    "precio": 26.50
+  },
+  {
+    "id": 82,
+    "nombre": "La metamorfosis",
+    "categoria": "Ficción",
+    "autor": "Franz Kafka",
+    "fecha": "1915-01-01",
+    "stock": 10,
+    "precio": 21.60
+  },
+  {
+    "id": 83,
+    "nombre": "Ensayo sobre la ceguera",
+    "categoria": "Ficción",
+    "autor": "José Saramago",
+    "fecha": "1995-01-01",
+    "stock": 8,
+    "precio": 29.70
+  },
+  {
+    "id": 84,
+    "nombre": "El evangelio según Jesucristo",
+    "categoria": "Novela",
+    "autor": "José Saramago",
+    "fecha": "1991-01-01",
+    "stock": 6,
+    "precio": 31.40
+  },
+  {
+    "id": 85,
+    "nombre": "La tregua",
+    "categoria": "Novela",
+    "autor": "Mario Benedetti",
+    "fecha": "1960-01-01",
+    "stock": 11,
+    "precio": 24.80
+  },
+
+  {
+    "id": 86,
+    "nombre": "Gracias por el fuego",
+    "categoria": "Novela",
+    "autor": "Mario Benedetti",
+    "fecha": "1965-01-01",
+    "stock": 7,
+    "precio": 23.50
+  },
+  {
+    "id": 87,
+    "nombre": "La ciudad y los perros",
+    "categoria": "Novela",
+    "autor": "Mario Vargas Llosa",
+    "fecha": "1963-01-01",
+    "stock": 8,
+    "precio": 28.90
+  },
+  {
+    "id": 88,
+    "nombre": "Conversación en La Catedral",
+    "categoria": "Novela",
+    "autor": "Mario Vargas Llosa",
+    "fecha": "1969-01-01",
+    "stock": 6,
+    "precio": 34.60
+  },
+  {
+    "id": 89,
+    "nombre": "La fiesta del chivo",
+    "categoria": "Novela",
+    "autor": "Mario Vargas Llosa",
+    "fecha": "2000-01-01",
+    "stock": 9,
+    "precio": "error"
+  },
+  {
+    "id": 90,
+    "nombre": "El túnel",
+    "categoria": "N/A",
+    "autor": "Ernesto Sabato",
+    "fecha": "1948-01-01",
+    "stock": 10,
+    "precio": 22.90
+  },
+
+  {
+    "id": 91,
+    "nombre": "Sobre héroes y tumbas",
+    "categoria": "Novela",
+    "autor": "Ernesto Sabato",
+    "fecha": "1961-01-01",
+    "stock": "",
+    "precio": 31.80
+  },
+  {
+    "id": 92,
+    "nombre": "El perfume",
+    "categoria": "Suspenso",
+    "autor": "Patrick Süskind",
+    "fecha": "1985-01-01",
+    "stock": 11,
+    "precio": 29.60
+  },
+  {
+    "id": 93,
+    "nombre": "La sombra del viento",
+    "categoria": "Misterio",
+    "autor": "Carlos Ruiz Zafón",
+    "fecha": "2001-01-01",
+    "stock": 14,
+    "precio": 34.90
+  },
+  {
+    "id": 94,
+    "nombre": "El juego del ángel",
+    "categoria": "Misterio",
+    "autor": "Carlos Ruiz Zafón",
+    "fecha": "2008-01-01",
+    "stock": 10,
+    "precio": 33.40
+  },
+  {
+    "id": 95,
+    "nombre": "El prisionero del cielo",
+    "categoria": "Misterio",
+    "autor": "Carlos Ruiz Zafón",
+    "fecha": "2011-01-01",
+    "stock": 9,
+    "precio": 32.20
+  },
+
+  {
+    "id": 96,
+    "nombre": "Marina",
+    "categoria": "Misterio",
+    "autor": "Carlos Ruiz Zafón",
+    "fecha": "1999-01-01",
+    "stock": 8,
+    "precio": 27.90
+  },
+  {
+    "id": 97,
+    "nombre": "El curioso incidente del perro a medianoche",
+    "categoria": "N/A",
+    "autor": "Mark Haddon",
+    "fecha": "2003-01-01",
+    "stock": 11,
+    "precio": 25.80
+  },
+  {
+    "id": 98,
+    "nombre": "La carretera",
+    "categoria": "Postapocalíptico",
+    "autor": "Cormac McCarthy",
+    "fecha": "2006-01-01",
+    "stock": 7,
+    "precio": 28.30
+  },
+  {
+    "id": 99,
+    "nombre": "El viejo y el mar",
+    "categoria": "Clásico",
+    "autor": "Ernest Hemingway",
+    "fecha": "1952-01-01",
+    "stock": "",
+    "precio": 21.70
+  },
+  {
+    "id": 100,
+    "nombre": "Por quién doblan las campanas",
+    "categoria": "Clásico",
+    "autor": "Ernest Hemingway",
+    "fecha": "1940-01-01",
+    "stock": 9,
+    "precio": 30.90
+  },
+  {
+    "id": 101,
+    "nombre": "El retrato de Dorian Gray",
+    "categoria": "Clásico",
+    "autor": "Oscar Wilde",
+    "fecha": "1890-01-01",
+    "stock": 10,
+    "precio": 27.4
+  },
+  {
+    "id": 102,
+    "nombre": "Moby Dick",
+    "categoria": "Clásico",
+    "autor": "Herman Melville",
+    "fecha": "1851-01-01",
+    "stock": 6,
+    "precio": 35.9
+  },
+  {
+    "id": 103,
+    "nombre": "La naranja mecánica",
+    "categoria": "Distopía",
+    "autor": "Anthony Burgess",
+    "fecha": "1962-01-01",
+    "stock": 9,
+    "precio": 28.6
+  },
+  {
+    "id": 106,
+    "nombre": "El club de la pelea",
+    "categoria": "Ficción",
+    "autor": "Chuck Palahniuk",
+    "fecha": "1996-01-01",
+    "stock": 11,
+    "precio": null
+  },
+  {
+    "id": 113,
+    "nombre": "El contrato social",
+    "categoria": "Filosofía",
+    "autor": "Jean-Jacques Rousseau",
+    "fecha": "1762-01-01",
+    "stock": null,
+    "precio": 24.3
+  },
+  {
+    "id": 119,
+    "nombre": "El extranjero",
+    "categoria": "Ficciónn",
+    "autor": "Albert Camus",
+    "fecha": "1942-01-01",
+    "stock": 10,
+    "precio": 24.8
+  },
+  {
+    "id": 145,
+    "nombre": "Hábitos atómicos",
+    "categoria": "Autoayuda",
+    "autor": "James Clear",
+    "fecha": "2018-01-01",
+    "stock": 18,
+    "precio": null
+  },
+  {
+    "id": 149,
+    "nombre": "El cerebro del niño",
+    "categoria": "Psychología",
+    "autor": "Daniel J. Siegel",
+    "fecha": "2011-01-01",
+    "stock": 8,
+    "precio": null
+  },
+  {
+    "id": 153,
+    "nombre": "El poder de los hábitos",
+    "categoria": "Psychología",
+    "autor": "Charles Duhigg",
+    "fecha": "2012-01-01",
+    "stock": 13,
+    "precio": null
+  },
+  {
+    "id": 169,
+    "nombre": "El origen de las especies",
+    "categoria": "Ciencia",
+    "autor": "Charles Darwin",
+    "fecha": "1859-01-01",
+    "stock": 5,
+    "precio": null
+  },
+  {
+    "id": 204,
+    "nombre": "Cien años de soledad",
+    "categoria": "Novela",
+    "autor": "Gabriel García Márquez",
+    "fecha": "1967-05-30",
+    "stock": 6,
+    "precio": 12.13
+  },
+  {
+    "id": 205,
+    "nombre": "El principito",
+    "categoria": "Infantil",
+    "autor": "Antoine de Saint-Exupéry",
+    "fecha": "1943-04-06",
+    "stock": 10,
+    "precio": 0
+  },
+  {
+    "id": 206,
+    "nombre": "Don Quijote de la Mancha",
+    "categoria": "Clásico",
+    "autor": "Miguel de Cervantes",
+    "fecha": "1605-01-16",
+    "stock": 4,
+    "precio": 15.26
+  },
+  {
+    "id": 207,
+    "nombre": "1984",
+    "categoria": "Ciencia ficción",
+    "autor": "George Orwell",
+    "fecha": "1949-06-08",
+    "stock": 7,
+    "precio": 23.15
+  },
+  {
+    "id": 208,
+    "nombre": "Harry Potter y la piedra filosofal",
+    "categoria": "Fantasía",
+    "autor": "J.K. Rowling",
+    "fecha": "1997-06-26",
+    "stock": 12,
+    "precio": 7.56
+  },
+  {
+    "id": 217,
+    "nombre": "El origen de las especies",
+    "categoria": "Ciencia",
+    "autor": "Charles Darwin",
+    "fecha": "1859-11-24",
+    "stock": 4,
+    "precio": 74.12
+  }
+]
